@@ -1,0 +1,252 @@
+{
+  "annotations": {
+    "AC1": {
+      "end": 2641,
+      "start": 1561,
+      "strand": -1
+    },
+    "AC2": {
+      "end": 1653,
+      "start": 1245,
+      "strand": -1
+    },
+    "AC3": {
+      "end": 1505,
+      "start": 1100,
+      "strand": -1
+    },
+    "AC4": {
+      "end": 2484,
+      "start": 2250,
+      "strand": -1
+    },
+    "AV1": {
+      "end": 1104,
+      "start": 330,
+      "strand": 1
+    },
+    "AV2": {
+      "end": 527,
+      "start": 170,
+      "strand": 1
+    },
+    "nuc": {
+      "end": 2798,
+      "start": 0,
+      "strand": 1
+    }
+  },
+  "author_info": {},
+  "color_options": {
+    "country": {
+      "key": "country",
+      "legendTitle": "country",
+      "menuItem": "country",
+      "type": "discrete"
+    },
+    "location": {
+      "key": "location",
+      "legendTitle": "location",
+      "menuItem": "location",
+      "type": "discrete"
+    },
+    "num_date": {
+      "key": "num_date",
+      "legendTitle": "Sampling date",
+      "menuItem": "date",
+      "type": "continuous"
+    },
+    "virus": {
+      "key": "virus",
+      "legendTitle": "virus",
+      "menuItem": "virus",
+      "type": "discrete"
+    }
+  },
+  "defaults": {
+    "mapTriplicate": true
+  },
+  "filters": [
+    "country",
+    "location",
+    "virus"
+  ],
+  "geo": {
+    "country": {
+      "angola": {
+        "latitude": -9.6265267,
+        "longitude": 13.2658483
+      },
+      "burkina_faso": {
+        "latitude": 12.3216444,
+        "longitude": 0.95749998
+      },
+      "central_african_republic": {
+        "latitude": 4.13425,
+        "longitude": 18.18034
+      },
+      "democratic_republic_of_the_congo": {
+        "latitude": 2.315936,
+        "longitude": 14.58198
+      },
+      "equatorial_guinea": {
+        "latitude": 3.62365,
+        "longitude": 8.7465
+      },
+      "kenya": {
+        "latitude": 3.62,
+        "longitude": 39.85
+      },
+      "tanzania": {
+        "latitude": -6.1664908,
+        "longitude": 39.2074312
+      },
+      "uganda": {
+        "latitude": -0.6932717,
+        "longitude": 32.3754492
+      }
+    },
+    "location": {
+      "arua": {
+        "latitude": 2.9479914,
+        "longitude": 31.1256453
+      },
+      "bioko": {
+        "latitude": 3.62365,
+        "longitude": 8.7465
+      },
+      "bungoma": {
+        "latitude": 0.716893067,
+        "longitude": 34.62064837
+      },
+      "bushenyi": {
+        "latitude": -0.538941,
+        "longitude": 30.1894
+      },
+      "busia": {
+        "latitude": 0.3837873,
+        "longitude": 34.1862253
+      },
+      "cabo_ledo": {
+        "latitude": -9.6556666,
+        "longitude": 13.2388885
+      },
+      "funyula": {
+        "latitude": 0.25829,
+        "longitude": 34.052603
+      },
+      "iganga": {
+        "latitude": 0.6782174,
+        "longitude": 33.5522381
+      },
+      "kaberamaido": {
+        "latitude": 1.760093,
+        "longitude": 33.253222
+      },
+      "kagamega": {
+        "latitude": 0.28,
+        "longitude": 34.72
+      },
+      "kalangala": {
+        "latitude": -0.6932717,
+        "longitude": 32.3754492
+      },
+      "kapou": {
+        "latitude": 4.13425,
+        "longitude": 18.18034
+      },
+      "komolo": {
+        "latitude": 0.1106344,
+        "longitude": 34.2899483
+      },
+      "koubri": {
+        "latitude": 12.048222,
+        "longitude": -1.2525001
+      },
+      "lake_victoria_basin": {
+        "latitude": -2.524675,
+        "longitude": 31.29054
+      },
+      "lekana": {
+        "latitude": 2.315936,
+        "longitude": 14.58198
+      },
+      "machakos": {
+        "latitude": -1.35,
+        "longitude": 37.37
+      },
+      "makueni": {
+        "latitude": -1.7903026,
+        "longitude": 37.6286033
+      },
+      "malaba": {
+        "latitude": 0.6328964,
+        "longitude": 34.2765543
+      },
+      "masaka": {
+        "latitude": -0.4831071,
+        "longitude": 31.8319203
+      },
+      "migori": {
+        "latitude": -1.0666,
+        "longitude": 34.46659
+      },
+      "mkueni": {
+        "latitude": -2.3666,
+        "longitude": 37.9
+      },
+      "mpigi": {
+        "latitude": 0.012,
+        "longitude": 31.7366968
+      },
+      "mtwapa": {
+        "latitude": -3.95,
+        "longitude": 39.744444
+      },
+      "mumias": {
+        "latitude": 0.3363,
+        "longitude": 34.4891
+      },
+      "nakasongola": {
+        "latitude": 1.320436,
+        "longitude": 32.489435
+      },
+      "namulonge": {
+        "latitude": 2.3181,
+        "longitude": 14.5886
+      },
+      "otuboi": {
+        "latitude": 1.78481,
+        "longitude": 33.59432
+      },
+      "sega": {
+        "latitude": 0.2491504,
+        "longitude": 34.2247653
+      },
+      "siaya": {
+        "latitude": 0.1439837,
+        "longitude": 34.31009315
+      },
+      "ugunja": {
+        "latitude": 0.199011,
+        "longitude": 34.2794216
+      },
+      "wakiso": {
+        "latitude": 0.2182858,
+        "longitude": 32.5130304
+      }
+    }
+  },
+  "maintainer": [
+    "PestDisPlace",
+    "https://pestdisplace.org/"
+  ],
+  "panels": [
+    "tree",
+    "map",
+    "entropy"
+  ],
+  "title": "Real-time tracking and evolution of cassava-infecting EACMV_UG in Africa (DNA-A",
+  "updated": "28 Aug 2019",
+  "virus_count": 59
+}
